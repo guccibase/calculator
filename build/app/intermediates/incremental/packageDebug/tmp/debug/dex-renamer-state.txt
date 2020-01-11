@@ -1,0 +1,4 @@
+#Sat Jan 11 01:54:13 EST 2020
+base.0=/Users/tahirnas/git/calculator/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
